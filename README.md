@@ -2,6 +2,8 @@
 
 GitHub Pages: https://samuelargentino.github.io/jogo-adivinhacao/
 
+Vercel: https://jogo-adivinhacao-livid.vercel.app/
+
 ## Ferramentas utilizadas:
 
 * HTML
